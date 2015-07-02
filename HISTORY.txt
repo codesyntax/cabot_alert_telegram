@@ -1,7 +1,10 @@
-0.3 (unreleased)
+0.3 (2015-07-02)
 ================
 
-- Nothing changed yet.
+- bump [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- alert text change [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
 
 
 0.2 (2015-07-02)
