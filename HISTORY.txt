@@ -1,7 +1,18 @@
-0.2 (unreleased)
+0.2 (2015-07-02)
 ================
 
-- Nothing changed yet.
+- document the bot [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- reformat message [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- reformat [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- docs [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- Merge remote-tracking branch 'origin/master' [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- Update README.md [Aitzol <anaberan@codesyntax.com>]
+
 
 
 0.1 (2015-07-02)
