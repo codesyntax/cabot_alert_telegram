@@ -48,7 +48,7 @@ To get the chat id, open https://telegram.me and select the group chat you previ
 
     https://web.telegram.org/#/im?p=g99999999
 
-You need to not the value of p parameter (g99999999) and exchange **g** with a **-**: **-g99999999**
+You need to not the value of p parameter (g99999999) and exchange **g** with a **-**: **-99999999**
 
 This is a bit hacky, but I don't know any other way to get the group id.
 
