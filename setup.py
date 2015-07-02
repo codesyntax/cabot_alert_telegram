@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(name='cabot_alert_telegram',
-      version='0.1',
+      version='0.2.dev0',
       description='A Telegram alert plugin for Cabot by Arachnys',
       author='Mikel Larreategi',
       author_email='mlarreategi@codesyntax.com',
