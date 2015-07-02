@@ -1,2 +1,6 @@
-0.1 - (UNRELEASED)
-===================
+0.1 (2015-07-02)
+================
+
+- history! [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- version [Mikel Larreategi <mlarreategi@codesyntax.com>]
