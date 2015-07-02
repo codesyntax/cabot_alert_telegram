@@ -25,7 +25,7 @@ or::
 Edit `conf/*.env`::
 
 
-    CABOT_PLUGINS_ENABLED=cabot_alert_telegram=0.2
+    CABOT_PLUGINS_ENABLED=cabot_alert_telegram=0.3
     ...
     TELEGRAM_BOT_TOKEN=bot_token
     TELEGRAM_CHAT_ID=id of the chat where messages will be sent
