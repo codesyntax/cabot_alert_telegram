@@ -1,0 +1,5 @@
+recursive-include cabot_alert_telegram *
+recursive-include docs *
+include *
+global-exclude *.pyc
+
