@@ -5,6 +5,8 @@ from setuptools import setup, find_packages
 setup(name='cabot_alert_telegram',
       version='0.2.dev0',
       description='A Telegram alert plugin for Cabot by Arachnys',
+      long_description=open('README.rst').read() + '\n' +
+        open('HISTORY.txt').read(),
       author='Mikel Larreategi',
       author_email='mlarreategi@codesyntax.com',
       url='https://github.com/codesyntax/cabot_alert_telegram',
