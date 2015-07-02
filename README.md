@@ -9,14 +9,14 @@ This is an alert plugin for the cabot service monitoring tool. It allows you to 
 
 Enter the cabot virtual environment.
 ```
-    $ pip install cabot_alert_slack
+    $ pip install cabot_alert_telegram
     $ foreman stop
 ```
 
 or
 
 ```
-    $ pip install git+git://github.com/codesyntax/cabot_alert_slack.git
+    $ pip install git+git://github.com/codesyntax/cabot_alert_telegram.git
     $ foreman stop
 ```
 
