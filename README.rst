@@ -36,6 +36,23 @@ Add cabot_alert_telegram to the installed apps in settings.py::
     $ foreman run python manage.py syncdb
     $ foreman start
 
+Add manually an instance of the Alert Plugin (sometimes it is not added automatically)::
+
+    $ ssh ubuntu@server
+    $ source venv/bin/activate
+    $ source venv/bin/activate
+    $ cd cabot
+    $ foreman run -e conf/production.env python manage.py shell # point to the correct production.env file
+    Python 2.7.3 (default, Dec 18 2014, 19:10:20)
+    [GCC 4.6.3] on linux2
+    Type "help", "copyright", "credits" or "license" for more information.
+    (InteractiveConsole)
+    >>> from cabot_alert_telegram.models import TelegramAlert
+    >>> ta = TelegramAlert()
+    >>> ta.title = u'Telegram'
+    >>> ta.save()
+    >>> (Ctrl-D to exit)
+
 
 Telegram Bot
 ============
