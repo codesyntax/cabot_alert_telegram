@@ -1,4 +1,4 @@
-0.4 (unreleased)
+0.4 (2016-01-21)
 ================
 
 - rework readme [Mikel Larreategi <mlarreategi@codesyntax.com>]
