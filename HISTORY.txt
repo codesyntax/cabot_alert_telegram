@@ -1,7 +1,18 @@
 0.4 (unreleased)
 ================
 
-- Nothing changed yet.
+- rework readme [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- remove unneeded slack test [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- add whitespace to make links correctly clickable [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- document telegram install [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- bot documentation [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- remove [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
 
 
 0.3 (2015-07-02)
