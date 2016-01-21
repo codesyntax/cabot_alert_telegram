@@ -25,7 +25,7 @@ or::
 Edit `conf/*.env`::
 
 
-    CABOT_PLUGINS_ENABLED=cabot_alert_telegram=0.3
+    CABOT_PLUGINS_ENABLED=cabot_alert_telegram=0.4
     ...
     TELEGRAM_BOT_TOKEN=bot_token
     TELEGRAM_CHAT_ID=id of the chat where messages will be sent
@@ -39,7 +39,6 @@ Add cabot_alert_telegram to the installed apps in settings.py::
 Add manually an instance of the Alert Plugin (sometimes it is not added automatically)::
 
     $ ssh ubuntu@server
-    $ source venv/bin/activate
     $ source venv/bin/activate
     $ cd cabot
     $ foreman run -e conf/production.env python manage.py shell # point to the correct production.env file
