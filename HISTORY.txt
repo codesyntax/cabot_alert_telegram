@@ -1,8 +1,7 @@
 0.5 (unreleased)
 ================
 
-- Nothing changed yet.
-
+- Simpler alert message [garaolaza]
 
 0.4 (2016-01-21)
 ================
